@@ -1,4 +1,6 @@
-
+﻿
 Bridge: dùng lọc URL nhu middleware
 App: xử lý route ( controller, action, params) rồi điều hướng đến nơi đó xử lý
 Controll: hàm xử lý trung gian để lấy dữ liêu, để xuat ra view
+
+phan moi them vao -------------
